@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "heap-priority-queue",
+    "name": "Heap (Priority Queue)"
+  },
+  "updatedAt": "2026-08-02T04:01:31.672Z",
+  "problems": [
+    {
+      "frontendId": "1464",
+      "title": "Maximum Product of Two Elements in an Array",
+      "slug": "maximum-product-of-two-elements-in-an-array",
+      "problemName": "1464-maximum-product-of-two-elements-in-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/",
+      "folderPath": "1464-maximum-product-of-two-elements-in-an-array/",
+      "readmePath": "1464-maximum-product-of-two-elements-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1464-maximum-product-of-two-elements-in-an-array.java",
+          "path": "1464-maximum-product-of-two-elements-in-an-array/1464-maximum-product-of-two-elements-in-an-array.java",
+          "sha": "b8fc711c54a60a3f53c51a58f7edd1e3e57ffa59",
+          "lastSyncedAt": "2026-08-02T04:01:31.672Z"
+        }
+      ]
+    }
+  ]
+}

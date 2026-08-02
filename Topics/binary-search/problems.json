@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-08-02T04:02:46.041Z",
+  "updatedAt": "2026-08-02T04:02:57.871Z",
   "problems": [
     {
       "frontendId": "69",
@@ -23,6 +23,26 @@
           "path": "0069-sqrtx/0069-sqrtx.java",
           "sha": "51a44dc457b189c56f35f0506b5d1ac1e773d3c1",
           "lastSyncedAt": "2026-08-02T04:02:46.041Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "278",
+      "title": "First Bad Version",
+      "slug": "first-bad-version",
+      "problemName": "0278-first-bad-version",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/first-bad-version/",
+      "folderPath": "0278-first-bad-version/",
+      "readmePath": "0278-first-bad-version/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0278-first-bad-version.java",
+          "path": "0278-first-bad-version/0278-first-bad-version.java",
+          "sha": "e5bb1df0e0661b75b3696c74218d9b2528c50f7b",
+          "lastSyncedAt": "2026-08-02T04:02:57.871Z"
         }
       ]
     },

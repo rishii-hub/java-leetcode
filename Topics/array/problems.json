@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-02T04:01:48.058Z",
+  "updatedAt": "2026-08-02T04:02:00.365Z",
   "problems": [
     {
       "frontendId": "628",
@@ -23,6 +23,26 @@
           "path": "0628-maximum-product-of-three-numbers/0628-maximum-product-of-three-numbers.java",
           "sha": "b0f702ce5a69b9a3e86f70cb8be086cf14658aa9",
           "lastSyncedAt": "2026-08-02T04:00:45.233Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "875",
+      "title": "Koko Eating Bananas",
+      "slug": "koko-eating-bananas",
+      "problemName": "0875-koko-eating-bananas",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/koko-eating-bananas/",
+      "folderPath": "0875-koko-eating-bananas/",
+      "readmePath": "0875-koko-eating-bananas/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0875-koko-eating-bananas.java",
+          "path": "0875-koko-eating-bananas/0875-koko-eating-bananas.java",
+          "sha": "3ced70a05cb1334d65024c8901dabbc345e80468",
+          "lastSyncedAt": "2026-08-02T04:02:00.365Z"
         }
       ]
     },

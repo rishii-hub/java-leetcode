@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-02T04:01:15.926Z",
+  "updatedAt": "2026-08-02T04:01:24.756Z",
   "problems": [
     {
       "frontendId": "628",
@@ -63,6 +63,26 @@
           "path": "2535-difference-between-element-sum-and-digit-sum-of-an-array/2535-difference-between-element-sum-and-digit-sum-of-an-array.java",
           "sha": "11e9f08d7e668801eba4cb2aeb6f616014a500fc",
           "lastSyncedAt": "2026-08-02T04:01:10.091Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3536",
+      "title": "Maximum Product of Two Digits",
+      "slug": "maximum-product-of-two-digits",
+      "problemName": "3536-maximum-product-of-two-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-of-two-digits/",
+      "folderPath": "3536-maximum-product-of-two-digits/",
+      "readmePath": "3536-maximum-product-of-two-digits/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3536-maximum-product-of-two-digits.java",
+          "path": "3536-maximum-product-of-two-digits/3536-maximum-product-of-two-digits.java",
+          "sha": "01583f3c3d160f36fd240ee197f591c3a95ce6ad",
+          "lastSyncedAt": "2026-08-02T04:01:24.756Z"
         }
       ]
     },

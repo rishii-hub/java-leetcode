@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "number-theory",
+    "name": "Number Theory"
+  },
+  "updatedAt": "2026-08-02T04:01:15.926Z",
+  "problems": [
+    {
+      "frontendId": "1979",
+      "title": "Find Greatest Common Divisor of Array",
+      "slug": "find-greatest-common-divisor-of-array",
+      "problemName": "1979-find-greatest-common-divisor-of-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-greatest-common-divisor-of-array/",
+      "folderPath": "1979-find-greatest-common-divisor-of-array/",
+      "readmePath": "1979-find-greatest-common-divisor-of-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1979-find-greatest-common-divisor-of-array.java",
+          "path": "1979-find-greatest-common-divisor-of-array/1979-find-greatest-common-divisor-of-array.java",
+          "sha": "c00319036dd9ccff4ab0b4f3a60a1f96f84acfb6",
+          "lastSyncedAt": "2026-08-02T04:01:15.926Z"
+        }
+      ]
+    }
+  ]
+}

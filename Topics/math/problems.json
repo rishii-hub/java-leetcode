@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-02T04:00:45.233Z",
+  "updatedAt": "2026-08-02T04:01:02.649Z",
   "problems": [
     {
       "frontendId": "628",
@@ -23,6 +23,26 @@
           "path": "0628-maximum-product-of-three-numbers/0628-maximum-product-of-three-numbers.java",
           "sha": "b0f702ce5a69b9a3e86f70cb8be086cf14658aa9",
           "lastSyncedAt": "2026-08-02T04:00:45.233Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3945",
+      "title": "Digit Frequency Score",
+      "slug": "digit-frequency-score",
+      "problemName": "3945-digit-frequency-score",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/digit-frequency-score/",
+      "folderPath": "3945-digit-frequency-score/",
+      "readmePath": "3945-digit-frequency-score/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3945-digit-frequency-score.java",
+          "path": "3945-digit-frequency-score/3945-digit-frequency-score.java",
+          "sha": "4a5caeaba0fd2baeaac0e8ce5340539282e01d48",
+          "lastSyncedAt": "2026-08-02T04:01:02.649Z"
         }
       ]
     }

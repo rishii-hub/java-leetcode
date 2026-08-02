@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-02T04:00:45.233Z",
+  "updatedAt": "2026-08-02T04:01:10.091Z",
   "problems": [
     {
       "frontendId": "628",
@@ -23,6 +23,26 @@
           "path": "0628-maximum-product-of-three-numbers/0628-maximum-product-of-three-numbers.java",
           "sha": "b0f702ce5a69b9a3e86f70cb8be086cf14658aa9",
           "lastSyncedAt": "2026-08-02T04:00:45.233Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2535",
+      "title": "Difference Between Element Sum and Digit Sum of an Array",
+      "slug": "difference-between-element-sum-and-digit-sum-of-an-array",
+      "problemName": "2535-difference-between-element-sum-and-digit-sum-of-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/",
+      "folderPath": "2535-difference-between-element-sum-and-digit-sum-of-an-array/",
+      "readmePath": "2535-difference-between-element-sum-and-digit-sum-of-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2535-difference-between-element-sum-and-digit-sum-of-an-array.java",
+          "path": "2535-difference-between-element-sum-and-digit-sum-of-an-array/2535-difference-between-element-sum-and-digit-sum-of-an-array.java",
+          "sha": "11e9f08d7e668801eba4cb2aeb6f616014a500fc",
+          "lastSyncedAt": "2026-08-02T04:01:10.091Z"
         }
       ]
     }

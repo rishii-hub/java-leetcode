@@ -4,8 +4,28 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-08-02T04:02:00.365Z",
+  "updatedAt": "2026-08-02T04:02:46.041Z",
   "problems": [
+    {
+      "frontendId": "69",
+      "title": "Sqrt(x)",
+      "slug": "sqrtx",
+      "problemName": "0069-sqrtx",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sqrtx/",
+      "folderPath": "0069-sqrtx/",
+      "readmePath": "0069-sqrtx/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0069-sqrtx.java",
+          "path": "0069-sqrtx/0069-sqrtx.java",
+          "sha": "51a44dc457b189c56f35f0506b5d1ac1e773d3c1",
+          "lastSyncedAt": "2026-08-02T04:02:46.041Z"
+        }
+      ]
+    },
     {
       "frontendId": "875",
       "title": "Koko Eating Bananas",

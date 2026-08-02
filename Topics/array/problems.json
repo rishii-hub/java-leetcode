@@ -4,6 +4,27 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-02T03:59:55.223Z",
-  "problems": []
+  "updatedAt": "2026-08-02T04:00:45.233Z",
+  "problems": [
+    {
+      "frontendId": "628",
+      "title": "Maximum Product of Three Numbers",
+      "slug": "maximum-product-of-three-numbers",
+      "problemName": "0628-maximum-product-of-three-numbers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-of-three-numbers/",
+      "folderPath": "0628-maximum-product-of-three-numbers/",
+      "readmePath": "0628-maximum-product-of-three-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0628-maximum-product-of-three-numbers.java",
+          "path": "0628-maximum-product-of-three-numbers/0628-maximum-product-of-three-numbers.java",
+          "sha": "b0f702ce5a69b9a3e86f70cb8be086cf14658aa9",
+          "lastSyncedAt": "2026-08-02T04:00:45.233Z"
+        }
+      ]
+    }
+  ]
 }

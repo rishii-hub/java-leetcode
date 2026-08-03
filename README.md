@@ -67,3 +67,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Stack](Topics/stack/) | 0 |
 | [String](Topics/string/) | 1 |
 <!---LeetHub Summary End-->
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0078-subsets](https://github.com/rishii-hub/java-leetcode/tree/master/0078-subsets) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/rishii-hub/java-leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/rishii-hub/java-leetcode/tree/master/0078-subsets) |
+<!---LeetCode Topics End-->

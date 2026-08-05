@@ -6,49 +6,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 19 | 14 | 5 | 0 |
+| 19 | 15 | 4 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 5 days | 10 |
+| 1 days | 1 days | 1 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-07-21 | 2 |
-| 2026-07-22 | 1 |
-| 2026-07-24 | 2 |
-| 2026-07-25 | 4 |
-| 2026-07-26 | 1 |
-| 2026-07-27 | 2 |
-| 2026-07-28 | 1 |
-| 2026-07-30 | 2 |
-| 2026-08-01 | 1 |
-| 2026-08-02 | 3 |
+| 2026-08-06 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 8 | 42% |
-| Math | 8 | 42% |
-| Binary Search | 5 | 26% |
-| Sorting | 4 | 21% |
-| Counting Sort | 1 | 5% |
-| Hash Table | 1 | 5% |
-| Heap (Priority Queue) | 1 | 5% |
-| Interactive | 1 | 5% |
-| Number Theory | 1 | 5% |
-| String | 1 | 5% |
+| Array | 1 | 5% |
+| Binary Search | 1 | 5% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 8 |
+| [Array](Topics/array/) | 9 |
 | [Backtracking](Topics/backtracking/) | 0 |
-| [Binary Search](Topics/binary-search/) | 5 |
+| [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 0 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
@@ -74,7 +57,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/rishii-hub/java-leetcode/tree/master/0078-subsets) |
-| [1539-kth-missing-positive-number](https://github.com/rishii-hub/java-leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -83,8 +65,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/rishii-hub/java-leetcode/tree/master/0078-subsets) |
-## Binary Search
-|  |
-| ------- |
-| [1539-kth-missing-positive-number](https://github.com/rishii-hub/java-leetcode/tree/master/1539-kth-missing-positive-number) |
 <!---LeetCode Topics End-->

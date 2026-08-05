@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-02T04:03:09.367Z",
+  "updatedAt": "2026-08-05T19:14:25.448Z",
   "problems": [
     {
       "frontendId": "162",
@@ -123,6 +123,26 @@
           "path": "1482-minimum-number-of-days-to-make-m-bouquets/1482-minimum-number-of-days-to-make-m-bouquets.java",
           "sha": "3a6d3c07b88be027a72cc7314e2f675bbb1dbeb9",
           "lastSyncedAt": "2026-08-02T04:01:48.058Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1539",
+      "title": "Kth Missing Positive Number",
+      "slug": "kth-missing-positive-number",
+      "problemName": "1539-kth-missing-positive-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-missing-positive-number/",
+      "folderPath": "1539-kth-missing-positive-number/",
+      "readmePath": "1539-kth-missing-positive-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1539-kth-missing-positive-number.java",
+          "path": "1539-kth-missing-positive-number/1539-kth-missing-positive-number.java",
+          "sha": "6d87dd0853e2fa2ce886e3dd37825508538b53d4",
+          "lastSyncedAt": "2026-08-05T19:14:25.448Z"
         }
       ]
     },

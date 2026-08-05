@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/rishii-hub/java-leetcode/tree/master/0078-subsets) |
+| [1539-kth-missing-positive-number](https://github.com/rishii-hub/java-leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/rishii-hub/java-leetcode/tree/master/0078-subsets) |
+## Binary Search
+|  |
+| ------- |
+| [1539-kth-missing-positive-number](https://github.com/rishii-hub/java-leetcode/tree/master/1539-kth-missing-positive-number) |
 <!---LeetCode Topics End-->

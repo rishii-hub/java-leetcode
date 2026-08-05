@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-08-05T19:14:25.448Z",
+  "updatedAt": "2026-08-05T19:14:27.403Z",
   "problems": [
     {
       "frontendId": "69",
@@ -122,7 +122,7 @@
           "filename": "1539-kth-missing-positive-number.java",
           "path": "1539-kth-missing-positive-number/1539-kth-missing-positive-number.java",
           "sha": "6d87dd0853e2fa2ce886e3dd37825508538b53d4",
-          "lastSyncedAt": "2026-08-05T19:14:25.448Z"
+          "lastSyncedAt": "2026-08-05T19:14:27.403Z"
         }
       ]
     }

@@ -4,8 +4,28 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-02T04:01:02.649Z",
+  "updatedAt": "2026-08-06T19:20:11.363Z",
   "problems": [
+    {
+      "frontendId": "448",
+      "title": "Find All Numbers Disappeared in an Array",
+      "slug": "find-all-numbers-disappeared-in-an-array",
+      "problemName": "0448-find-all-numbers-disappeared-in-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/",
+      "folderPath": "0448-find-all-numbers-disappeared-in-an-array/",
+      "readmePath": "0448-find-all-numbers-disappeared-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0448-find-all-numbers-disappeared-in-an-array.java",
+          "path": "0448-find-all-numbers-disappeared-in-an-array/0448-find-all-numbers-disappeared-in-an-array.java",
+          "sha": "38fbb7635c87c6e38cdcc3666c56c1a68ab5e5c7",
+          "lastSyncedAt": "2026-08-06T19:20:11.363Z"
+        }
+      ]
+    },
     {
       "frontendId": "3945",
       "title": "Digit Frequency Score",

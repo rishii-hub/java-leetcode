@@ -6,34 +6,35 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 2 | 2 | 0 | 0 |
+| 3 | 2 | 1 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 2 days | 2 |
+| 3 days | 3 days | 3 |
 
 | Date | Problems |
 | --- | ---: |
 | 2026-08-06 | 1 |
 | 2026-08-07 | 1 |
+| 2026-08-08 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 2 | 100% |
-| Binary Search | 1 | 50% |
-| Hash Table | 1 | 50% |
+| Array | 3 | 100% |
+| Binary Search | 2 | 67% |
+| Hash Table | 1 | 33% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 10 |
+| [Array](Topics/array/) | 11 |
 | [Backtracking](Topics/backtracking/) | 0 |
-| [Binary Search](Topics/binary-search/) | 6 |
+| [Binary Search](Topics/binary-search/) | 7 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 0 |
 | [Counting Sort](Topics/counting-sort/) | 1 |

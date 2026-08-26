@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/rishii-hub/java-leetcode/tree/master/0078-subsets) |
+| [1470-shuffle-the-array](https://github.com/rishii-hub/java-leetcode/tree/master/1470-shuffle-the-array) |
 ## Backtracking
 |  |
 | ------- |

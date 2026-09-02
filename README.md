@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rishii-hub/java-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/rishii-hub/java-leetcode/tree/master/1470-shuffle-the-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rishii-hub/java-leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/rishii-hub/java-leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/rishii-hub/java-leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/rishii-hub/java-leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
